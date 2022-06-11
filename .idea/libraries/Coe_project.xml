@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Coe_project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/banking-system-master/BankingSystem/dist/Coe_project.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

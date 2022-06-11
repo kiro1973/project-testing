@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="adoptopenjdk.jemmy.browser" type="repository">
+    <properties maven-id="org.adoptopenjdk:jemmy-browser:2.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/adoptopenjdk/jemmy-browser/2.0.0/jemmy-browser-2.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/adoptopenjdk/jemmy-core/2.0.0/jemmy-core-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
